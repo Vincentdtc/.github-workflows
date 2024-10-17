@@ -1,4 +1,4 @@
-name: Basic GitHub Actions Workflow
+name: Basic GitHub Actions Workflow test
 
 on:
   push:
